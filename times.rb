@@ -3,7 +3,6 @@
 loop do
   counter = counter + 1
 	puts "Wingarddium Leviosa"
-	
 	if counter >= 7
 	  break
 	end
